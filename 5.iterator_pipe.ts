@@ -66,7 +66,7 @@ import _ from 'lodash'
   /**
    * used pipe
    */
-  function pipe(args: any, ...fns: Function[]) {
+  function pipe<T>(args: T[], ...fns: Function[]) {
     return fns.reduce((v, fn) => fn(v), args)
   }
 
@@ -84,7 +84,7 @@ import _ from 'lodash'
     }
   }
 
-  const result = pipe(
+  const result = pipe<number>(
     numbers,
     filter((item) => item % 2 === 0),
     map((item) => item + 10)
