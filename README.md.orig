@@ -2,6 +2,11 @@
 
 ### Library
 
+<<<<<<< HEAD
+- Will Study
+  - [ ] Docker -> Compose -> Swarn -> k8s
+  - [ ] ECS -> EKS -> Fargate
+=======
 - [RunType](RunTypes.ts)
 - [fp-ts](fp-ts.ts)
 - [serializer](serializer.ts)
@@ -9,7 +14,6 @@
 ### DevOps
 
 - [서버리스의 특징 한계점](serverless.md)
-- [ECS_EKS_Fargate](ecs_eks_fargate.md)
 
 ### Tech
 
@@ -19,8 +23,4 @@
 - [Nodejs\_최적화코드작성](Nodejs_최적화_코드.ts)
 - [Docker\_이론](Docker_이론.md)
 - [Utilit Type](./Utility_type.ts)
-
-### Will Study
-
-- [ ] Docker -> Compose -> Swarn -> k8s
-- [ ] ECS -> EKS -> Fargate
+>>>>>>> 50c3c2f3c679781cc605be4bf9a897044fe0f315

@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "fp-ts": "^2.12.1",
+    "fs": "0.0.1-security",
     "lodash": "^4.17.21",
     "runtypes": "^6.5.1",
     "serializer": "0.0.3",
