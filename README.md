@@ -7,4 +7,5 @@
 ```
 
 - Will Study
-  - [ ] fp-ts
+  - [ ] Docker -> Compose -> Swarn -> k8s
+  - [ ] ECS -> EKS -> Fargate
