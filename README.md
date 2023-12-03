@@ -19,8 +19,4 @@
 - [Nodejs\_최적화코드작성](Nodejs_최적화_코드.ts)
 - [Docker\_이론](Docker_이론.md)
 - [Utilit Type](./Utility_type.ts)
-
-### Will Study
-
-- [ ] Docker -> Compose -> Swarn -> k8s
-- [ ] ECS -> EKS -> Fargate
+- [ts-pattern을 사용하여 패턴매칭사용하기](./real-typescript.ts)

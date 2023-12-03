@@ -16,7 +16,8 @@
     "runtypes": "^6.5.1",
     "serializer": "0.0.3",
     "serializr": "^2.0.5",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "ts-pattern": "^5.0.6"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",
